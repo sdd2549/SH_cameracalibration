@@ -1,5 +1,4 @@
 # SH_cameracalibration
-# SH_cameracalibration
 가장 좋아하는 숫자 7을 표현해 보았습니다. 
 
 * Camera matrix (K) =
